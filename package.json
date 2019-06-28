@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "wepack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyuhui123/ssr_react.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangyuhui123/ssr_react/issues"
+  },
+  "homepage": "https://github.com/huangyuhui123/ssr_react#readme"
+}
